@@ -1,0 +1,120 @@
+{
+  "unchain": [
+    {
+      "name": "Unchain My Heart",
+      "artist": "Joe Cocker",
+      "duration": 205,
+      "listeningTimes": 2
+    }
+  ],
+  "heart": [
+    {
+      "name": "Unchain My Heart",
+      "artist": "Joe Cocker",
+      "duration": 205,
+      "listeningTimes": 2
+    }
+  ],
+  "joe": [
+    {
+      "name": "Unchain My Heart",
+      "artist": "Joe Cocker",
+      "duration": 205,
+      "listeningTimes": 2
+    }
+  ],
+  "cocker": [
+    {
+      "name": "Unchain My Heart",
+      "artist": "Joe Cocker",
+      "duration": 205,
+      "listeningTimes": 2
+    }
+  ],
+  "smooth": [
+    {
+      "name": "Smooth",
+      "artist": "Santana",
+      "duration": 143,
+      "listeningTimes": 4
+    }
+  ],
+  "santana": [
+    {
+      "name": "Smooth",
+      "artist": "Santana",
+      "duration": 143,
+      "listeningTimes": 4
+    },
+    {
+      "name": "Into The Night",
+      "artist": "Santana",
+      "duration": 140,
+      "listeningTimes": 3
+    }
+  ],
+  "night": [
+    {
+      "name": "Into The Night",
+      "artist": "Santana",
+      "duration": 140,
+      "listeningTimes": 3
+    }
+  ],
+  "morirò": [
+    {
+      "name": "Morirò da Re",
+      "artist": "Måneskin",
+      "duration": 111,
+      "listeningTimes": 1
+    }
+  ],
+  "da": [
+    {
+      "name": "Morirò da Re",
+      "artist": "Måneskin",
+      "duration": 111,
+      "listeningTimes": 1
+    }
+  ],
+  "re": [
+    {
+      "name": "Morirò da Re",
+      "artist": "Måneskin",
+      "duration": 111,
+      "listeningTimes": 1
+    }
+  ],
+  "måneskin": [
+    {
+      "name": "Morirò da Re",
+      "artist": "Måneskin",
+      "duration": 111,
+      "listeningTimes": 1
+    }
+  ],
+  "losing": [
+    {
+      "name": "Losing My Religion",
+      "artist": "R.E.M.",
+      "duration": 210,
+      "listeningTimes": 0
+    }
+  ],
+  "religion": [
+    {
+      "name": "Losing My Religion",
+      "artist": "R.E.M.",
+      "duration": 210,
+      "listeningTimes": 0
+    }
+  ],
+  "r.e.m.": [
+    {
+      "name": "Losing My Religion",
+      "artist": "R.E.M.",
+      "duration": 210,
+      "listeningTimes": 0
+    }
+  ]
+}

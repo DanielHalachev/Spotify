@@ -1,0 +1,49 @@
+{
+  "admin": {
+    "MySongs": {
+      "name": "MySongs",
+      "songs": {
+        "Unchain My Heart": {
+          "name": "Unchain My Heart",
+          "artist": "Joe Cocker",
+          "duration": 205,
+          "listeningTimes": 0
+        },
+        "Smooth": {
+          "name": "Smooth",
+          "artist": "Santana",
+          "duration": 143,
+          "listeningTimes": 1
+        }
+      }
+    },
+    "MySongs2": {
+      "name": "MySongs2",
+      "songs": {
+        "Losing My Religion": {
+          "name": "Losing My Religion",
+          "artist": "R.E.M.",
+          "duration": 210,
+          "listeningTimes": 0
+        },
+        "Unchain My Heart": {
+          "name": "Unchain My Heart",
+          "artist": "Joe Cocker",
+          "duration": 205,
+          "listeningTimes": 0
+        }
+      }
+    },
+    "Hello": {
+      "name": "Hello",
+      "songs": {
+        "Smooth": {
+          "name": "Smooth",
+          "artist": "Santana",
+          "duration": 143,
+          "listeningTimes": 53
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "Into The Night": [
+    {
+      "name": "Into The Night",
+      "artist": "Santana",
+      "duration": 140,
+      "listeningTimes": 4
+    }
+  ],
+  "Unchain My Heart": [
+    {
+      "name": "Unchain My Heart",
+      "artist": "Joe Cocker",
+      "duration": 205,
+      "listeningTimes": 34
+    }
+  ],
+  "Smooth": [
+    {
+      "name": "Smooth",
+      "artist": "Santana",
+      "duration": 143,
+      "listeningTimes": 54
+    }
+  ],
+  "Losing My Religion": [
+    {
+      "name": "Losing My Religion",
+      "artist": "R.E.M.",
+      "duration": 210,
+      "listeningTimes": 8
+    }
+  ],
+  "Morirò da Re": [
+    {
+      "name": "Morirò da Re",
+      "artist": "Måneskin",
+      "duration": 111,
+      "listeningTimes": 3
+    }
+  ]
+}
